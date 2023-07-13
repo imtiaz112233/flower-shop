@@ -38,16 +38,19 @@
     justify-content: space-between;
     align-items: center;
     margin: 30px 130px;
-    border-radius: 300px 300px 0px 0px;
+    
 }
 .f1{
     background-color: #a7216225;
+    border-radius: 350px 350px 0px 0px;
 }
 .f2{
     background-color:#0598a027 ;
+    border-radius: 350px 350px 0px 0px;
 }
 .f3{
     background-color:#477d1125;
+    border-radius: 350px 350px 0px 0px;
 }
 .group-images{
     background-color: #2727270a;
